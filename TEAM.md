@@ -116,26 +116,39 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Phần việc phụ trách:**
 
--
+- Thực hiện Problem Scan (CP1) với 8 vấn đề về học tập: gom tài liệu phân tán, tóm tắt nội dung, xác định phần chưa nắm vững...
+- Xây dựng 3 Problem Card (CP2): Dựng đề cương ôn tập (T1), Gom tài liệu phân tán (T2), Xác định phần chưa nắm vững (T3).
+- Pitch candidate T1 — Dựng đề cương ôn tập; đây là candidate được nhóm chọn làm bài toán chính (CP3).
+- Phụ trách kiểm chứng và research (CP4): Assumption Map, thiết kế Quick Interview / Mini Poll / Time Log, tổng hợp 3 nghiên cứu và điều chỉnh Problem Statement sau kiểm chứng.
 
 
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Hoàn thành bảng Problem Scan 8 vấn đề kèm Job Story, người chịu ảnh hưởng và dấu hiệu thực tế đo được.
+- Xây dựng Problem Card T1 với quy trình 6 bước, xác định bottleneck là bước "tóm tắt từng chương" (khoảng 1,5–2 giờ/môn trong tổng 2–3 giờ/môn).
+- Lập Assumption Map gồm 6 giả định và chọn 3 giả định ưu tiên kiểm chứng (#1, #2, #3).
+- Thiết kế bộ câu hỏi Quick Interview (5 câu), Mini Poll (4 câu) và bảng Time Log so sánh tự tóm tắt với dùng AI.
+- Tổng hợp 3 nghiên cứu khoa học (Study Behavior, AI Summarization, Factual Accuracy) và viết kết luận điều chỉnh Problem Statement.
+- Đặt câu hỏi phản biện cho card của các bạn khác (D2, P2, S1, S2, S3).
 
 
 
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- `report/individual/202603378_PhamQuangTruong.md` — mục 2 (CP1 Scan), mục 3 (CP2 Top 3 Problem Cards).
+- `report/team/group_report.md` — mục 3 (CP4: Assumption Map, Kiểm chứng, Research).
+- Commit `a907b4e` — "Feat: Fill CP4 (Assumption Map, Validation, Research) into group report".
 
 
 
 
 **Điều mình học được từ phần nhóm:**
 
+- Candidate T1 của mình được chọn nhờ quy trình rõ và có baseline đo được, không phải vì cảm giác "đau" — nên ngay từ đầu cần làm rõ quy trình và số liệu.
+- Con số "2–3 giờ/môn" ban đầu chỉ là ước lượng; câu hỏi phản biện "đã đo thật chưa?" khiến nhóm đưa Time Log vào kiểm chứng thay vì tin vào ước lượng.
+- Cây OST giúp phân biệt "solution đội lốt opportunity" (ví dụ "AI tóm tắt từng chương" là giải pháp, không phải nhu cầu), nhờ đó giữ Problem Statement ở đúng tầng nhu cầu.
 -
 
 
