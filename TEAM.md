@@ -4,9 +4,9 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm: K5-L3A-Day02-NhomNewbie-DiscoveryProblemFraming
-- Candidate problem nhóm chọn (1 câu): Dựng đề cương ôn tập
-- Quyết định cuối (Go / Not Yet / No-Go): Not Yet
+- Tên nhóm:
+- Candidate problem nhóm chọn (1 câu):
+- Quyết định cuối (Go / Not Yet / No-Go): **Not Yet** — cần đo thời gian thực tế và kiểm tra chất lượng bản tóm tắt AI trước khi triển khai.
 
 ## Thành viên
 
@@ -41,25 +41,31 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Phần việc phụ trách:**
 
--
+- Tổng hợp nội dung CP3 vào báo cáo nhóm: bảng pitch, cluster, cây OST, bảng chấm điểm và lý do chọn vấn đề.
+- Trình bày các Problem Card của mình và đặt câu hỏi phản biện cho các bạn.
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Trình bày D1–D3 về khó bắt đầu bài lab, tìm lại tài liệu học và tìm kiến thức cần ôn.
+- Hỏi Phong bước nào mất thời gian nhất khi gom và tóm tắt tài liệu; hỏi Trường thời gian dựng đề cương 2–3 giờ đã được đo thực tế chưa; hỏi Sơn việc dùng mẫu ghi chú có giúp tổng hợp sau họp nhanh hơn không.
+- Đưa ghi chép CP3 nhóm cung cấp vào đúng các mục của báo cáo chung, giữ cấu trúc theo mẫu.
+- Cập nhật candidate T1 — Dựng đề cương ôn tập vào thông tin nhóm; ghi quyết định cuối chưa chốt để bổ sung sau kiểm chứng và đánh giá.
 
 
 
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- [Báo cáo nhóm](report/team/group_report.md): mục 1 và mục 2.1–2.4; bảng pitch có các card D1–D3 và câu hỏi phản biện của Duy.
+- [Báo cáo cá nhân](report/individual/2A202603387_NguyenTrungDuy.md): mục 3 và mục 4.
+- Commit `eff4ad8`: cập nhật bối cảnh cá nhân và nội dung CP3 của báo cáo nhóm.
 
 
 
 
 **Điều mình học được từ phần nhóm:**
 
--
+- Cần phân biệt thời gian ước lượng với thời gian đã đo. Khi chọn vấn đề, cần hỏi rõ bước nào bị nghẽn và thử cách đơn giản như checklist hoặc mẫu có sẵn trước khi quyết định dùng AI.
 
 
 
