@@ -432,5 +432,8 @@ Bỏ sót tệ hơn, vì sinh viên không thể thấy được cái AI không 
 -
 
 ## 10. Tài liệu tham khảo
-
--
+- n8n. n8n Documentation. https://docs.n8n.io/
+- Lark. Lark Help Center. https://www.larksuite.com/en_us/help
+- Google. Google Sheets Help. https://support.google.com/docs/
+- Google. Google Drive Help. https://support.google.com/drive/
+- Notion. Notion Help Center. https://www.notion.com/help
