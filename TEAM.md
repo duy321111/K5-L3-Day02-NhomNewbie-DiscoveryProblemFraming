@@ -14,7 +14,7 @@
 |---:|---|---|---|---|
 | 1 | | | | |
 | 2 | | | | |
-| 3 | | | | |
+| 3 | Võ Sỹ Thái Sơn | 2A202603623 | Viết Problem Statement, ghi chép, phản biện | SonVinUni |
 | 4 | | | | |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
@@ -155,12 +155,22 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- group_report.md phần 6. Mức can thiệp AI (CP6)
 
+- group_report.md phần 7. Problem Statement v1 + tiêu chí đánh giá (CP6)
 
-
+- group_report.md phần 8. Quyết định (CP6)
 
 **Điều mình học được từ phần nhóm:**
 
+- Biết cách xác định vấn đề dựa trên Job Story, người chịu ảnh hưởng, tần suất và thời gian thực tế thay vì chỉ nêu cảm nhận.
 
--
+- Hiểu rằng cần phân biệt vấn đề thực sự với giải pháp mình nghĩ ra.
+
+- Biết cách xác định bottleneck trong quy trình và đặt success metric để đánh giá kết quả.
+
+- Hiểu rằng không phải vấn đề nào cũng cần dùng AI, có thể ưu tiên Rule hoặc Workflow tùy theo tính chất công việc.
+
+- Nhận ra cần kiểm chứng các giả định trước khi triển khai dù giải pháp nghe có vẻ hợp lý.
+
+- Học được cách tiếp nhận phản biện và xem xét lại vấn đề trước khi quyết định giải pháp.
