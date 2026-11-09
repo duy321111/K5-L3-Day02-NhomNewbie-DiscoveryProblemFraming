@@ -14,7 +14,7 @@
 |---:|---|---|---|---|
 | 1 | | | | |
 | 2 | | | | |
-| 3 |Võ Sỹ Thái Sơn|2A202603623|thành viên|SonVinUni|
+| 3 | | | | |
 | 4 | | | | |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
@@ -37,7 +37,7 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### Nguyễn Trung Duy - 2A202603387
 
 **Phần việc phụ trách:**
 
@@ -47,10 +47,107 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 -
 
+
+
+
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
 -
 
+
+
+
 **Điều mình học được từ phần nhóm:**
+
+-
+
+
+
+### Phong-MSSV
+
+**Phần việc phụ trách:**
+
+-
+
+
+
+
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+-
+
+
+
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+-
+
+
+
+**Điều mình học được từ phần nhóm:**
+
+-
+
+
+
+### Truong-MSSV
+
+**Phần việc phụ trách:**
+
+-
+
+
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+-
+
+
+
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+-
+
+
+
+
+**Điều mình học được từ phần nhóm:**
+
+-
+
+
+
+
+### Son-MSSV
+
+**Phần việc phụ trách:**
+
+-
+
+
+
+
+
+**Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
+
+-
+
+
+
+
+
+
+**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+
+-
+
+
+
+
+**Điều mình học được từ phần nhóm:**
+
 
 -
