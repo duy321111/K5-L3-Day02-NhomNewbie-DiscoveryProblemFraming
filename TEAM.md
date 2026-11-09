@@ -4,9 +4,9 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
-- Quyết định cuối (Go / Not Yet / No-Go):
+- Tên nhóm: K5-L3A-Day02-NhomNewbie-DiscoveryProblemFraming
+- Candidate problem nhóm chọn (1 câu): Dựng đề cương ôn tập
+- Quyết định cuối (Go / Not Yet / No-Go): Not Yet
 
 ## Thành viên
 
@@ -121,7 +121,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 
 
-### Sơn - 2A202603623
+### Võ Sỹ Thái Sơn - 2A202603623
 
 **Phần việc phụ trách:**
 
