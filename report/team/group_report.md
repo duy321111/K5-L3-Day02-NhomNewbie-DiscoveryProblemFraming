@@ -8,7 +8,7 @@
 - Tên nhóm: Newbie
 - Thành viên: xem `TEAM.md`
 - Candidate problem được chọn (1 câu): Sinh viên mất khoảng 2–3 giờ/môn để gom, đọc và tổng hợp tài liệu thành đề cương ôn tập nhưng vẫn chưa chắc đã đủ các chương.
-- Quyết định cuối: Chưa chốt — cần hoàn thành kiểm chứng CP4 và đánh giá CP5–CP6 trước khi chọn Go / Not Yet / No-Go.
+- Quyết định cuối: **Not Yet** — cần bấm giờ thực tế và thử AI trên tài liệu một môn để kiểm tra khả năng tiết kiệm thời gian, độ chính xác và độ đầy đủ trước khi triển khai.
 
 ---
 
@@ -366,25 +366,45 @@ Vì sao:
 
 | Rủi ro | Câu hỏi | Mức độ rủi ro (Thấp = an toàn / TB / Cao = nguy hiểm) | Lý do / bằng chứng |
 |---|---|---|---|
-| **Value** | Người dùng có thật sự cần và sẽ dùng không? | | |
-| **Usability** | Người dùng có dùng được, có hiểu và sửa được đầu ra của AI không? | | |
-| **Feasibility** | Có đủ dữ liệu, công cụ, kỹ năng để làm không? | | |
-| **Viability** | Có hợp chi phí, pháp lý, quy định tổ chức không? Ai vận hành? | | |
+| **Value** | Người dùng có thật sự cần và sẽ dùng không? | Trung bình | Trường và Phong đã nêu khó khăn khi làm đề cương, nhưng thời gian mới là ước lượng. Chưa có phỏng vấn ngoài nhóm để biết nhu cầu phổ biến đến đâu và cách hiện tại đã đủ chưa. |
+| **Usability** | Người dùng có dùng được, có hiểu và sửa được đầu ra của AI không? | Cao | Sinh viên có thể không nhận ra AI bỏ sót hoặc tóm tắt sai. Chưa thử thực tế để biết việc duyệt có nhanh và phát hiện lỗi hiệu quả không. |
+| **Feasibility** | Có đủ dữ liệu, công cụ, kỹ năng để làm không? | Trung bình | Có tài liệu học dạng số để thử; chưa kiểm tra khả năng đọc ghi chú tay, hình ảnh, bảng biểu và đối chiếu tên chương giữa các nguồn. |
+| **Viability** | Có hợp chi phí, pháp lý, quy định tổ chức không? Ai vận hành? | Trung bình | Chưa xác nhận quyền đưa tài liệu giảng viên lên công cụ AI, quy định sử dụng, chi phí và người phụ trách vận hành. Cần làm rõ trước khi thử trên tài liệu thật. |
 
 ### 8.2. Kết luận
 
-**Quyết định:** Go / Not Yet / No-Go
+**Quyết định:** **Not Yet** — chưa triển khai rộng, cần kiểm chứng thêm trên tài liệu thực tế.
 
 **Lý do:**
 
+- Thời gian làm đề cương khoảng 2–3 giờ/môn mới là ước lượng, chưa có số đo từng bước.
+- Chưa thử để biết AI có tóm tắt đúng, đủ chương và giúp tiết kiệm thời gian sau khi tính cả bước kiểm tra, chỉnh sửa hay không.
+- Rủi ro Usability còn ở mức Cao: sinh viên có thể dùng bản tóm tắt thiếu hoặc sai mà không phát hiện.
+- Chưa chọn Go vì thiếu dữ liệu thực tế. Chưa chọn No-Go vì vẫn có thể kiểm tra hướng này với phạm vi nhỏ và so sánh với cách không dùng AI.
+
 **Nếu Go — pilot nhỏ nhất:**
+
+Sau khi đủ điều kiện, thử với 1 sinh viên và tài liệu 1 môn được phép sử dụng. Lấy danh sách chương từ đề cương giảng viên, dùng AI hỗ trợ tóm tắt rồi sinh viên đối chiếu và sửa. Ghi thời gian từng bước, chương bị thiếu và ý sai; so sánh với cách tự làm. Đây là kế hoạch, chưa phải thử nghiệm đã hoàn thành.
 
 **Nếu Not Yet — cần kiểm chứng gì trước:**
 
+1. Bấm giờ quy trình hiện tại, tách thời gian đọc và viết tóm tắt để xác định đúng bước nghẽn.
+2. Phỏng vấn 2–3 sinh viên ngoài nhóm hoặc khảo sát 5–10 người về lần gần nhất làm đề cương và cách đang xử lý.
+3. Thử AI trên một chương, kiểm tra độ đầy đủ, nguồn của từng ý và thời gian duyệt; lưu ý việc làm hai lần cùng tài liệu có thể tạo lợi thế do đã quen nội dung.
+4. So sánh với template, mục lục và chia sẻ đề cương để kiểm tra có thực sự cần AI không.
+5. Xác nhận được phép sử dụng tài liệu, công cụ và có người chịu trách nhiệm kiểm tra đầu ra.
+
 **Nếu No-Go — nên làm gì thay AI:**
+
+Dùng đề cương giảng viên làm khung, ghi chú theo từng chương, dùng template và chia sẻ phần tổng hợp giữa các bạn. Có thể dùng Rule để tổ chức file nếu cần, còn sinh viên tự đọc và tóm tắt.
 
 **Ngưỡng dừng** (nếu sau … mà … thì quay về …):
 
+- Nếu thử trên một môn mà AI bỏ sót chương hoặc có ý sai không được phát hiện khi duyệt, dừng dùng bản nháp đó để ôn và quay về đối chiếu, tự tóm tắt theo tài liệu gốc.
+- Nếu sau 3 lượt thử tương đương tổng thời gian vẫn không đạt mục tiêu dưới 60 phút/môn hoặc không giảm so với cách tự làm, chưa mở rộng; dùng template và xem lại quy trình.
+- Nếu không được phép đưa tài liệu lên công cụ AI, dừng hướng này và dùng phương án không AI.
+
+Các ngưỡng trên là đề xuất để nhóm thống nhất trước khi thử; chưa có kết quả đo xác nhận.
 ---
 
 ## 9. Hạn chế và hướng tiếp theo

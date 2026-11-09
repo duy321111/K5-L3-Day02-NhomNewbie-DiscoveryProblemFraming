@@ -1,4 +1,4 @@
-# Báo cáo cá nhân — MSSV_HoTen
+# Báo cáo cá nhân — 2A202603387_NguyenTrungDuy
 
 > Đổi tên file theo quy tắc `MSSV_HoTen.md`, ví dụ `20241234_NguyenVanAn.md` (MSSV trước, dấu `_`, họ tên viết liền không dấu). Sửa cả dòng tiêu đề phía trên cho khớp.
 > Template chi tiết và prompt mẫu cho từng mục: [docs/01-worksheet.md](../../docs/01-worksheet.md).
@@ -178,18 +178,20 @@ Kết luận: Tôi chọn Problem Card #1 để tiếp tục tìm hiểu vì đ�
 
 ## 4. Tôi đã tham gia phần nào (CP3 → CP7)
 
+Tôi thực hiện CP1, CP2 cá nhân và tham gia CP3 của nhóm. Tôi không tham gia thực hiện CP4–CP6.
+
 | Hoạt động | Tôi đã làm gì? | Kết quả / ảnh hưởng tới bài nhóm |
 |---|---|---|
-| Pitch Problem Card | | |
-| Phản biện bài của bạn khác | Câu hỏi tôi đã đặt: | |
-| Nhận phản biện | Câu hỏi tôi nhận được: | Tôi đã sửa gì: |
-| Gom cluster / cây OST | | |
-| Chọn candidate problem | | |
-| Kiểm chứng / research | | |
-| Quy trình nhóm | | |
-| Problem Statement | | |
-| Mức can thiệp AI | | |
-| Quyết định | | |
+| Pitch Problem Card | Tôi trình bày 3 vấn đề: chưa rõ cách bắt đầu lab, tìm lại tài liệu học và tìm kiến thức cần ôn. | Các card D1–D3 được ghi trong bảng pitch; D1 thuộc C2, D2 và D3 thuộc C3. |
+| Phản biện bài của bạn khác | Tôi hỏi Phong: “Bước nào mất thời gian nhất?”; hỏi Trường: “Thời gian 2–3 giờ đã đo thật chưa?”; hỏi Sơn: “Có mẫu ghi chú thì làm nhanh hơn không?” | Các câu hỏi làm rõ những điểm cần kiểm tra: thời gian từng bước, độ tin cậy của baseline và khả năng dùng cách đơn giản hơn. Chưa có kết quả kiểm chứng các điểm này. |
+| Nhận phản biện | Sơn hỏi D1 do tài liệu khó hiểu hay tôi chưa quen; Phong hỏi hướng dẫn từng bước có giúp không. Với D2, tôi được hỏi về tần suất và cách sắp xếp thư mục; với D3, về người khác cùng gặp và loại tài liệu khó tìm. | Tôi cần làm rõ nguyên nhân, tần suất và loại tài liệu trước khi kết luận. Bản báo cáo chưa ghi nhận việc đo lại hoặc thử checklist sau các câu hỏi này. |
+| Gom cluster / cây OST | Tôi tổng hợp nội dung CP3 nhóm cung cấp vào báo cáo chung, sắp xếp theo các mục Pitch, Cluster, OST và Chấm điểm. | Báo cáo nhóm có 7 cluster, phần phân biệt nhu cầu với giải pháp và kết quả shortlist. |
+| Chọn candidate problem | Tôi ghi lại kết quả lựa chọn của nhóm trong báo cáo: T1 — Dựng đề cương ôn tập. | T1 đạt 32/35 điểm; P1 được tham khảo thêm, P2 và P3 không được chọn làm bài chính. |
+| Kiểm chứng / research | Tôi không tham gia phần CP4. | Phần này do các thành viên khác thực hiện. |
+| Quy trình nhóm | Tôi không tham gia xây dựng quy trình ở CP5. | Phần này do các thành viên khác thực hiện. |
+| Problem Statement | Tôi không tham gia viết hoặc phản biện Problem Statement v0/v1. | Phần này do các thành viên khác thực hiện. |
+| Mức can thiệp AI | Tôi không tham gia so sánh và chọn mức can thiệp ở CP6. | Phần này do các thành viên khác thực hiện. |
+| Quyết định | Tôi không tham gia đánh giá rủi ro và chốt quyết định ở CP6. | Phần này do các thành viên khác thực hiện. |
 
 ---
 
@@ -199,10 +201,10 @@ Kết luận: Tôi chọn Problem Card #1 để tiếp tục tìm hiểu vì đ�
 |---|---|---|---|---|
 | CP1 Scan | Hỗ trợ diễn đạt vấn đề đọc tài liệu lab chưa rõ cách bắt đầu; gợi ý thêm tình huống và đưa bản nháp vào file Markdown. | Giúp trình bày theo Job Story và đúng cấu trúc bảng CP1. | Bản nháp ban đầu chưa có dữ kiện thực tế; dòng 3 và 5 vẫn thiếu số lần hoặc thời gian ảnh hưởng. | Tôi xác nhận các tình huống phù hợp và cung cấp thời lượng 30 phút, 15 phút, 15–20 phút; bổ sung việc từng bỏ sót yêu cầu và gặp vấn đề deadline vào tuần trước. |
 | CP2 Problem Card | Nhờ AI soạn bản nháp 3 Problem Card, quy trình và phản biện từ các vấn đề đã xác nhận ở CP1. | Giúp tách phạm vi ba problem, đề xuất mục tiêu, cách đo và phương án không dùng AI. | AI chưa biết quy trình thực tế; thời gian từng bước chỉ là phân bổ minh họa, bottleneck chưa được đo. | Chưa tự chốt; cần kiểm tra quy trình, thời gian từng bước, mục tiêu và từng phản biện trước khi pitch. |
-| CP4 Research | | | | |
-| CP5 Quy trình | | | | |
-| CP5–6 Problem Statement | | | | |
-| CP6 Mức can thiệp / quyết định | | | | |
+| CP4 Research | Không tham gia thực hiện. | Không áp dụng. | Không áp dụng. | Không áp dụng. |
+| CP5 Quy trình | Không tham gia thực hiện. | Không áp dụng. | Không áp dụng. | Không áp dụng. |
+| CP5–6 Problem Statement | Không tham gia thực hiện. | Không áp dụng. | Không áp dụng. | Không áp dụng. |
+| CP6 Mức can thiệp / quyết định | Không tham gia thực hiện. | Không áp dụng. | Không áp dụng. | Không áp dụng. |
 
 ---
 
@@ -212,20 +214,40 @@ Trả lời bằng trải nghiệm thật của bạn, tối thiểu 200 từ ch
 
 **6.1. Tôi học được gì khi nghe top 3 problems của các bạn khác?**
 
+Nghe Phong và Trường trình bày, tôi thấy các bạn cũng gặp khó khăn khi gom tài liệu và làm đề cương. Những việc này khá gần với việc học của tôi. Tôi hiểu là cần nói rõ mình khó ở bước nào, thay vì chỉ nói chung chung là mất thời gian.
+
 **6.2. Nhóm có lúc nào bị "solution-first" (nghĩ giải pháp trước khi hiểu vấn đề) không? Lúc đó nhóm nhận ra và xử lý thế nào?**
+
+Lúc làm CP2, tôi đã nghĩ đến việc dùng AI giải thích tài liệu dù chưa rõ vì sao mình khó bắt đầu. Khi thảo luận, nhóm có hỏi về cách dùng checklist, sắp xếp thư mục và mẫu ghi chú. Vì vậy, cần xem các cách đơn giản này có đủ không trước khi chọn AI.
 
 **6.3. Tôi có đổi ý sau khi bị phản biện không? Kể một lần cụ thể.**
 
+Sơn hỏi tôi khó bắt đầu lab do tài liệu khó hiểu hay do chưa quen. Phong hỏi nếu có hướng dẫn từng bước thì có dễ hơn không. Từ đó, tôi thấy chưa thể kết luận là cần AI chỉ vì mình đọc mất 30 phút. Tôi cần thử làm theo checklist rồi mới so sánh.
+
 **6.4. Kết quả kiểm chứng (phỏng vấn/survey/research) có làm tôi bất ngờ không? Điều gì?**
+
+Tôi không làm phần phỏng vấn và khảo sát ở CP4 nên chưa có kết quả riêng để kể. Phần này do các bạn khác phụ trách. Tôi cần xem kết quả của nhóm để hiểu rõ hơn người khác có gặp khó khăn giống mình không.
 
 **6.5. Điều khó nhất khi viết Problem Statement là gì?**
 
+Tôi không trực tiếp viết Problem Statement của nhóm. Khi làm Problem Card, tôi thấy khó nhất là xác định chính xác bước nào mất nhiều thời gian. Tôi mới ước lượng số phút từng bước, chưa đo lại. Vì vậy, các số này cần kiểm tra trước khi dùng để so sánh.
+
 **6.6. Nếu làm lại, tôi sẽ đổi gì? Tôi sẽ phản biện nhóm mạnh hơn ở điểm nào?**
+
+Nếu làm lại, tôi sẽ ghi thời gian ngay lúc làm và lấy ví dụ cụ thể hơn. Khi nghe các bạn trình bày, tôi sẽ hỏi số liệu đã đo thật chưa và đã thử cách không dùng AI chưa. Tôi cũng sẽ đọc kỹ nội dung AI gợi ý, sửa chỗ không đúng với việc mình đã làm.
 
 **6.7. Hiểu bài:** giải thích bằng 5–8 câu, không nhìn tài liệu, chuỗi *problem → quy trình → metric → boundary → mức can thiệp AI → quyết định* của bài nhóm mình.
 
+Nhóm chọn vấn đề sinh viên mất khoảng 2–3 giờ mỗi môn để làm đề cương nhưng vẫn có thể thiếu chương; số giờ này mới là ước lượng. Các bước gồm gom tài liệu, đọc, tóm tắt và kiểm tra đề cương. Bước tóm tắt được xem là bước nghẽn dự kiến, cần đo lại để biết chính xác. Mục tiêu là giảm thời gian xuống dưới 1 giờ mỗi môn mà vẫn đủ chương theo đề cương giảng viên. Nếu dùng AI, sinh viên phải kiểm tra lại, AI không được tự bỏ chương hay thêm ý không có nguồn. Hướng đang cân nhắc là Workflow, AI tóm tắt theo các bước có sẵn và sinh viên duyệt. Kết luận hiện tại là Not Yet vì còn cần đo thời gian và thử chất lượng bản tóm tắt trước khi triển khai.
 ---
 
 ## 7. Tài liệu tham khảo
 
--
+- [README — Giới thiệu bài lab](../../README.md): mục tiêu, thứ tự đọc và cách tổ chức bài làm.
+- [CHECKPOINTS — Yêu cầu từng checkpoint](../../CHECKPOINTS.md): đầu ra và tiêu chí tự kiểm tra CP1, CP2, CP3 và CP7.
+- [Worksheet — Hướng dẫn chi tiết](../../docs/01-worksheet.md): cách viết Job Story, Problem Card, quy trình nháp và câu hỏi phản biện.
+- [Bài làm mẫu](../../docs/02-deliverable-example.md): tham khảo cấu trúc trình bày, không dùng số liệu hoặc nhân vật mẫu làm bằng chứng cá nhân.
+- [RULES — Quy định làm bài](../../RULES.md): nguyên tắc sử dụng AI, làm nhóm và ghi nhận đóng góp.
+- [RUBRIC — Tiêu chí chấm điểm](../../RUBRIC.md): yêu cầu về bằng chứng, metric và reflection cá nhân.
+- [SUBMISSION — Hướng dẫn nộp bài](../../SUBMISSION.md): cách đặt tên file, cấu trúc repo và hình thức nộp.
+- [Báo cáo nhóm Newbie](../team/group_report.md): bảng pitch, câu hỏi phản biện, cluster và kết quả chọn T1 ở CP3.
