@@ -131,7 +131,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - Tham gia phản biện Problem Card của các thành viên khác và tiếp nhận phản biện từ Trường, Duy.
 
-- Soạn Problem Statement v1 và các nội dung về mức độ can thiệp AI (CP6), bao gồm ma trận, so sánh các mức No AI/Rule/Workflow/Agent, AI Canvas và câu hỏi PAIR.
+- Soạn Problem Statement v1 và các nội dung về mức độ can thiệp AI (CP6) bao gồm ma trận, so sánh các mức No AI/Rule/Workflow/Agent, AI Canvas và câu hỏi PAIR.
 
 - Soạn tiêu chí đánh giá, phân tích rủi ro và trình bày quyết định Not Yet theo kết luận của nhóm.
 
@@ -141,7 +141,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - Xây dựng Problem Card #2 về việc đồng bộ danh sách sản phẩm từ Google Sheets sang Lark. Xác định bottleneck là thao tác chép dữ liệu thủ công, mất khoảng 45 phút mỗi lần và xảy ra khoảng 6 lần/tuần.
 
-- Chọn Pitch Card #2 để nhóm xem xét. Tuy card không được chọn vào Top 3, nhóm vẫn đưa nội dung vào các cluster C6 và C7, đồng thời giao mình đặt target cho S1, S2, S3.
+- Chọn Pitch Card #2 để nhóm xem xét, mặc dù card không được chọn vào Top 3 nhưng nhóm vẫn đưa nội dung card vào các cluster C6 và C7, đồng thời giao mình đặt target cho S1, S2, S3.
 
 - Đặt câu hỏi phản biện cho các vấn đề D2, P1, P3 và T2 để làm rõ tần suất xảy ra, nguyên nhân và khả năng giải quyết bằng phương án đơn giản hơn.
 
