@@ -277,7 +277,7 @@ Bỏ sót tệ hơn, vì sinh viên không thể thấy được cái AI không 
 | 2 | Đúng nguồn | Mỗi ý chính có chỉ nguồn, và khi đối chiếu tài liệu gốc thì nội dung khớp. Kiểm tra mẫu 5 ý ngẫu nhiên mỗi chương không có ý sai | Có ý không chỉ nguồn, hoặc ý không tìm thấy trong tài liệu gốc |
 | 3 | Không thêm ngoài tài liệu | Không có ý nào mà tài liệu đã gom không đề cập | Có ý, định nghĩa hoặc ví dụ do AI tự thêm vào |
 | 4 | Đủ ý để ôn | Làm thử 5 câu hỏi ôn của môn, sinh viên tìm được đáp án trong đề cương ít nhất 4/5 câu | Từ 2 câu trở lên không tìm được đáp án |
-| 5 | Duyệt nhanh hơn tự tóm | Thời gian duyệt và sửa không quá 30 phút/môn, và rõ rệt ít hơn tự tóm (90–120 phút) | Thời gian duyệt gần bằng tự tóm, hoặc sinh viên phải viết lại phần lớn bản nháp |
+| 5 | Duyệt nhanh hơn tự tóm | Thời gian duyệt và sửa không quá 25 phút/môn, và rõ rệt ít hơn tự tóm (90–120 phút) | Thời gian duyệt gần bằng tự tóm, hoặc sinh viên phải viết lại phần lớn bản nháp |
 
 ---
 
