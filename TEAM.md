@@ -14,7 +14,7 @@
 |---:|---|---|---|---|
 | 1 | | | | |
 | 2 | | | | |
-| 3 | | | | |
+| 3 |Võ Sỹ Thái Sơn|2A202603623|thành viên|SonVinUni|
 | 4 | | | | |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
