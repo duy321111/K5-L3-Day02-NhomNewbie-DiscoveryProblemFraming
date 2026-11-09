@@ -63,32 +63,45 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 
 
-### Phong-MSSV
+### Trần Nguyễn Anh Phong - 2A202603629
 
 **Phần việc phụ trách:**
 
--
+- Chọn các Problem Card và Top 3 Problem Card trong CP1 và CP2.
+- Thảo luận, phản biện, đặt câu hỏi, chọn Card phần CP3.
+- Thực hiện CP5.
 
 
 
 
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
-
--
+- Trình bày Top Card Problem của bản thân.
+- Đưa các câu hỏi phản biện và trả lời các câu hỏi phản biện.
+- Vẽ 2 sơ đồ bằng Mermaid có quy trình, ảnh trích dẫn đầy đủ.
+- Quy trình hiện tại có actor/input/output/thời gian, bottleneck; quy trình tương lai có bước con người kiểm tra, boundary, phương án quay về; có bảng before/after.
 
 
 
 
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
--
+- Phần CP3 và CP5 trong group_report, 2 file ảnh sơ đồ (vẫn có code mermaid trong report) trong report/assets.
+- Các commit như:
+  - update 2A202603629_TranNguyenAnhPhong
+  - update cp5
+  - update code mermaid  
+  ....
 
 
 
 **Điều mình học được từ phần nhóm:**
 
--
+- Em học được cách xác định và phân tích vấn đề trước khi vội vàng đề xuất giải pháp. Một Problem Statement tốt cần dựa trên vấn đề thực tế, có phạm vi rõ ràng và xác định được đối tượng bị ảnh hưởng.
+- Em hiểu rõ hơn cách phân tích một quy trình thông qua actor, input, output, thời gian và bottleneck để tìm ra những công đoạn cần cải thiện.
+- Em nhận ra việc ứng dụng AI không có nghĩa là tự động hóa toàn bộ quy trình. Cần xác định rõ boundary giữa AI và con người, có bước Human-in-the-loop để kiểm tra và phương án fallback khi AI gặp trường hợp không xử lý được.
+- Qua hoạt động phản biện và trao đổi nhóm, em học được cách nhìn nhận vấn đề từ nhiều góc độ, tiếp thu ý kiến đóng góp và điều chỉnh quan điểm của bản thân.
+- Em cũng cải thiện kỹ năng sử dụng GitHub và Mermaid để phối hợp công việc, quản lý nội dung và trực quan hóa quy trình.
 
 
 
