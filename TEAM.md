@@ -180,6 +180,8 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 - group_report.md phần 8. Quyết định (CP6)
 
+- Các commit như: Update group_report.md, Revise team report with updates and AI analysis. 
+
 **Điều mình học được từ phần nhóm:**
 
 - Biết cách xác định vấn đề dựa trên Job Story, người chịu ảnh hưởng, tần suất và thời gian thực tế thay vì chỉ nêu cảm nhận.
