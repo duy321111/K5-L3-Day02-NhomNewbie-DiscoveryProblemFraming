@@ -37,19 +37,37 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `HoVaTen-MSSV`.
 
-### HoVaTen-MSSV
+### Sơn - 2A202603623
 
 **Phần việc phụ trách:**
 
--
+- Thực hiện Problem Scan (CP1), đưa ra 8 vấn đề có thể gặp trong công việc của Junior PM.
+
+- Pitch Problem Card #2 về việc đồng bộ danh sách sản phẩm từ Google Sheets sang Lark.
+
+- Tham gia phản biện Problem Card của các thành viên khác và tiếp nhận phản biện từ Trường, Duy.
+
+- Soạn Problem Statement v1 và các nội dung về mức độ can thiệp AI (CP6), bao gồm ma trận, so sánh các mức No AI/Rule/Workflow/Agent, AI Canvas và câu hỏi PAIR.
+
+- Soạn tiêu chí đánh giá, phân tích rủi ro và trình bày quyết định Not Yet theo kết luận của nhóm.
 
 **Đóng góp cụ thể** (mình đã làm gì, ra sản phẩm gì):
 
--
+- Hoàn thành bảng Problem Scan với 8 vấn đề, mô tả Job Story, người chịu ảnh hưởng và dấu hiệu thực tế.
 
-**Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
+- Xây dựng Problem Card #2 về việc đồng bộ danh sách sản phẩm từ Google Sheets sang Lark. Xác định bottleneck là thao tác chép dữ liệu thủ công, mất khoảng 45 phút mỗi lần và xảy ra khoảng 6 lần/tuần.
 
--
+- Chọn Pitch Card #2 để nhóm xem xét. Tuy card không được chọn vào Top 3, nhóm vẫn đưa nội dung vào các cluster C6 và C7, đồng thời giao mình đặt target cho S1, S2, S3.
+
+- Đặt câu hỏi phản biện cho các vấn đề D2, P1, P3 và T2 để làm rõ tần suất xảy ra, nguyên nhân và khả năng giải quyết bằng phương án đơn giản hơn.
+
+- Tiếp nhận góp ý về việc ghi chú sau họp và sử dụng template, từ đó nhận ra cần kiểm chứng nguyên nhân gây mất thời gian thay vì vội kết luận.
+
+- Soạn Problem Statement v1, bổ sung quy trình, bottleneck, impact, success metric, phương án không dùng AI và giả thuyết về AI.
+
+- Soạn nội dung CP6, giúp nhóm so sánh bốn mức can thiệp AI và lựa chọn Workflow thay vì Agent. Đồng thời trình bày AI Canvas và các câu hỏi PAIR.
+
+- Soạn tiêu chí đánh giá, bốn rủi ro, quyết định Not Yet và các ngưỡng dừng theo kết luận của nhóm.
 
 **Điều mình học được từ phần nhóm:**
 
