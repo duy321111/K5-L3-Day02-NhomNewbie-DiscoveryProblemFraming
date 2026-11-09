@@ -4,18 +4,18 @@
 
 ## Thông tin nhóm
 
-- Tên nhóm:
-- Candidate problem nhóm chọn (1 câu):
+- Tên nhóm: Newbie
+- Candidate problem nhóm chọn (1 câu): Sinh viên mất khoảng 2–3 giờ/môn để gom, đọc và tổng hợp tài liệu thành đề cương ôn tập nhưng vẫn chưa chắc đã đủ các chương.
 - Quyết định cuối (Go / Not Yet / No-Go): **Not Yet** — cần đo thời gian thực tế và kiểm tra chất lượng bản tóm tắt AI trước khi triển khai.
 
 ## Thành viên
 
 | STT | Họ và tên | MSSV | Vai trò trong nhóm | Tài khoản GitHub |
 |---:|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
+| 1 | Nguyễn Trung Duy | 2A202603387 | Tổng hợp CP3, ghi chép và phản biện | duy321111 |
+| 2 | Trần Nguyễn Anh Phong | 2A202603629 | Quy trình trước/sau (CP5), vẽ sơ đồ và phản biện | anhphongtrng |
 | 3 | Võ Sỹ Thái Sơn | 2A202603623 | Viết Problem Statement, ghi chép, phản biện | SonVinUni |
-| 4 | | | | |
+| 4 | Phạm Quang Trường | 2A202603378 | Assumption Map, kiểm chứng và research (CP4) | truongpham090325 |
 
 Không ghi email hay số điện thoại vào bảng này, vì repo có thể để public.
 
@@ -25,13 +25,13 @@ Gợi ý vai trò (một người có thể giữ nhiều vai): điều phối t
 
 | Checkpoint | Người chính | Người hỗ trợ | Sản phẩm |
 |---|---|---|---|
-| CP3 — Hội tụ nhóm | | | Cluster, cây OST, bảng chấm điểm |
-| CP4 — Kiểm chứng | | | Assumption map, snapshot hoặc survey |
-| CP4 — Research | | | Bảng research có link |
-| CP5 — Quy trình trước/sau | | | Quy trình + bảng before/after |
-| CP5 — Problem Statement v0 | | | Problem Statement v0 |
-| CP6 — Mức can thiệp + Problem Statement v1 | Võ Sỹ Thái Sơn| | Ma trận, AI Canvas, eval, Problem Statement v1 |
-| CP6 — Quyết định | Võ Sỹ Thái Sơn | | 4 rủi ro + Go/Not Yet/No-Go |
+| CP3 — Hội tụ nhóm | Nguyễn Trung Duy | Trần Nguyễn Anh Phong, Phạm Quang Trường, Võ Sỹ Thái Sơn — pitch và phản biện | Cluster, cây OST, bảng chấm điểm |
+| CP4 — Kiểm chứng | Phạm Quang Trường | Chưa phân công | Assumption map, snapshot hoặc survey |
+| CP4 — Research | Phạm Quang Trường | Chưa phân công | Bảng research có link |
+| CP5 — Quy trình trước/sau | Trần Nguyễn Anh Phong | Chưa phân công | Quy trình + bảng before/after |
+| CP5 — Problem Statement v0 | Trần Nguyễn Anh Phong | Chưa phân công | Problem Statement v0 |
+| CP6 — Mức can thiệp + Problem Statement v1 | Võ Sỹ Thái Sơn | Chưa phân công | Ma trận, AI Canvas, eval, Problem Statement v1 |
+| CP6 — Quyết định | Võ Sỹ Thái Sơn | Chưa phân công | 4 rủi ro + Go/Not Yet/No-Go |
 
 ## Cá nhân
 
@@ -57,8 +57,9 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 **Bằng chứng** (phần nào trong `group_report.md`, file nào trong `report/assets/`, commit nào):
 
 - [Báo cáo nhóm](report/team/group_report.md): mục 1 và mục 2.1–2.4; bảng pitch có các card D1–D3 và câu hỏi phản biện của Duy.
-- [Báo cáo cá nhân](report/individual/2A202603387_NguyenTrungDuy.md): mục 3 và mục 4.
 - Commit `eff4ad8`: cập nhật bối cảnh cá nhân và nội dung CP3 của báo cáo nhóm.
+- Commit `3e0a8b0`: Merge main and update Duy report, team contributions and decision
+- ...
 
 
 
@@ -111,7 +112,7 @@ Mỗi thành viên thêm một mục theo mẫu dưới đây, tiêu đề là `
 
 
 
-### Truong-MSSV
+### Phạm Quang Trường - 2A202603378
 
 **Phần việc phụ trách:**
 
