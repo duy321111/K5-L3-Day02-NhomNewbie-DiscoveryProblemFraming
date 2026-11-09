@@ -5,10 +5,10 @@
 
 ## 1. Thông tin nhóm
 
-- Tên nhóm:
+- Tên nhóm: K5-L3A-Day02-NhomNewbie-DiscoveryProblemFraming
 - Thành viên: xem `TEAM.md`
-- Candidate problem được chọn (1 câu):
-- Quyết định cuối: Go / Not Yet / No-Go
+- Candidate problem được chọn (1 câu): T1: Dựng đề cương ôn tập
+- Quyết định cuối: Not Yet
 
 ---
 
